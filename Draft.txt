@@ -1,0 +1,9 @@
+This will be a website for adult coed soccer team, The OC Stingers.
+
+Features I'd like this application to have:
+#User Profiles
+#Calendar of Events
+#Microposts
+#Photo posts
+#Direct Messaging b/w users
+#Maps of game sites/pickup sites
